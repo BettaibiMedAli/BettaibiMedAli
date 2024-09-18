@@ -2,7 +2,7 @@
 
 I'm a student passionate about software development. Currently learning and building projects in computer science.
 - 🎓 Studying: Computer Science at Monastir Faculty of Science
-- 🌱 Learning: Spring Boot
+- 🌱 Learning: Backend development
 
 ## 🛠️ Skills
 - **Languages**: Java, Python
