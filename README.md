@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohamed Ali Bettaibi
 
 I'm a student passionate about software development. Currently learning and building projects in computer science.
-- 🎓 Studying: Computer Science at Monastir Faculty of Science
+- 🎓 Studying: Software Engineering at Monastir Faculty of Science
 - 🌱 Learning: FullStack development
 
 ## 🛠️ Skills
