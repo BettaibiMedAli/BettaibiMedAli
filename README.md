@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Mohamed Ali Bettaibi
 
 I'm a student passionate about software development. Currently learning and building projects in computer science.
-- 🎓 Studying: Software Engineering at Monastir Faculty of Sciences
+- 🎓 Studying: Software Engineering at Faculty of Sciences of Monastir
 - 🌱 Learning: FullStack development
 
 ## 🛠️ Skills
 - **Languages**: Java, JavaScript, Python
-- **Frameworks**: Spring Boot, React
+- **Frameworks**: Spring Boot, Nest js, React js
 - **Tools**: Git, Maven
 
 ## 📫 Contact
